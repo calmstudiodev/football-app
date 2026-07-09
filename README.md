@@ -39,4 +39,4 @@ https://calmstudiodev.github.io/football-app/
 
 ![Homepage](1-homepage.png)
 ![Team Search](2-example1.png)
-![Player Search](3-example.png)
+![Player Search](3-example2.png)
