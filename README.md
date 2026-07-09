@@ -20,3 +20,17 @@ Football Explorer is a web application built with HTML,CSS and JavaScript that a
 - JavaScript (ES6)
 - Fetch API
 - TheSports API
+
+## What I Learned
+- Working with API's
+- Fetch and Async/Await
+- DOM manupulation
+- Event Listeners
+- Responsive Layout
+- Error Handling
+- JavaScript Objects
+- Git & Github
+
+## Live Demo
+
+https://calmstudiodev.github.io/football-app/
