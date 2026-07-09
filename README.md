@@ -34,3 +34,9 @@ Football Explorer is a web application built with HTML,CSS and JavaScript that a
 ## Live Demo
 
 https://calmstudiodev.github.io/football-app/
+
+## Screenshots
+
+![Homepage](1-homepage.png)
+![Team Search](2-example1.png)
+![Player Search](3-example.png)
